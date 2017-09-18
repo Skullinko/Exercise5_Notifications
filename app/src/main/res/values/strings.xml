@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="btnStart">Start</string>
+    <string name="btnPause">Pause</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="ntfTitle">Countdown Timer</string>
+    <string name="ntfTextEnd">Time\'s up!</string>
+    <string name="txtTime">TIME</string>
+</resources>
